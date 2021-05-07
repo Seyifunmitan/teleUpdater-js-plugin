@@ -1,1 +1,1 @@
-# teleUpdater-js-plugin
+# TeleUpdater-js-plugin
